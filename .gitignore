@@ -1,0 +1,15 @@
+# OSX / *nix default autosave extension
+*.m~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Simulink Code Generation
+slprj/
+
+# DS Store
+.DS_Store
+
+# Output files
+*.xlsx
+
